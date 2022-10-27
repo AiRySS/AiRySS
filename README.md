@@ -1,8 +1,7 @@
 - Hi, I’m @AiRySS
-- I’m interested in audio/image signal processing.
-- I’m currently learning computer vision.
-- I am now on an internship at institude of information science, Academia Sinica in July, 2022.
-- I am currently working on a research project for my thesis, which is related to speech emotion recognition.
+- I’m interested in Digital Signal Processing and Software Development.
+- I mainly write C/C++ and Python codes.
+- I'm working on a project which is related to speech emotion recognition.
 - How to reach me : nduayu1215@gmail.com
 
 <!---
