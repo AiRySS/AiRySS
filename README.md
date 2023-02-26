@@ -1,7 +1,7 @@
-- Hi, I’m @AiRySS
-- I’m interested in Digital Signal Processing and Software Development.
-- I mainly write C/C++ and Python codes.
-- I'm working on a project which is related to Speech Emotion Recognition.
+- Hi, I’m @Nduayu
+- I’m interested in Audio Signal Processing.
+- I mainly write C++ and Python codes.
+- The topic of my master thesis is Speech Emotion Recognition.
 - How to reach me : nduayu1215@gmail.com
 
 <!---
